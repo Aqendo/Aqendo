@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aqendo
 - 👀 I’m interested in C++, Python.
 - 🌱 I’m currently learning C++.
-- 📫 My email: a@aqendo.eu.org
+- 📫 My email: github@aqendo.nl
+- 📜 My site: https://aqendo.nl/
 
 <!---
 Aqendo/Aqendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
