@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aqendo
 - 👀 I’m interested in C++, Python.
-- 🌱 I’m currently learning C++.
-- 📫 My email: github@aqendo.nl
+- 🌱 I’m currently learning Python.
+- 📫 My email: a@aqendo.nl
 - 📜 My site: https://aqendo.nl/
 
 <!---
