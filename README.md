@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqendo
 - 👀 I’m interested in C++, Python.
-- 🌱 I’m currently learning <insert random language from two above>.
+- 🌱 I’m currently learning \<insert random language from two above\>.
 - 📫 My email: a@aqendo.nl
 - 📜 My site: https://aqendo.nl/
 
